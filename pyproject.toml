@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "diary"
+version = "0.1.0"
+description = ""
+authors = ["scaboodles <owenj.wolff2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+regex = "^2022.10.31"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
